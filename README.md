@@ -16,7 +16,8 @@ The primary objective of the lab was to simulate a scenario where potential thre
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/jacksontyren/wireshark_capturing_creds/assets/121649532/9aabf879-f3ce-44a8-b580-ec158532473e)
+ <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
